@@ -1,3 +1,3 @@
 # Hi, this is Playn
 
-We create PlaynVoice, an intuitive voice assistant for small and medium-sized enterprises. 
+We create PlaynVoice, an AI Scribe for psychologists&therapists. 
